@@ -1,0 +1,5 @@
+com\dinogo\security\configuration\MySecurityInitializer.class
+com\dinogo\security\controller\Controller.class
+com\dinogo\security\configuration\MySecurityConfig.class
+com\dinogo\security\configuration\MyWebInitializer.class
+com\dinogo\security\configuration\MyConfig.class
